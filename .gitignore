@@ -1,0 +1,6 @@
+# Keil MDK过滤规则
+*.axf *.bak *.bin *.build_log.htm *.dep *.elf *.hex *.htm *.lnp *.lst *.map *.o *.obj *.opt *.plg *.sct *.tmp *.uvguix.* *.__i *._i
+Debug/ Objects/ RTE/
+# 大赛项目额外过滤
+*.zip *.7z *.rar *.exe *.log
+Thumbs.db .DS_Store
