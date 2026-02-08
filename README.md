@@ -22,7 +22,7 @@
 
 ## 编译与烧录
 1. 环境要求：Keil uVision5.38及以上，安装STM32F103C8T6芯片包；
-2. 编译步骤：打开MDK-ARM/NEDC-Vocational-K-STM32.uvprojx → 选择芯片 → 点击Build → 生成hex文件；
+2. 编译步骤：打开MDK-ARM/NEDC-Vocational-K-project.uvprojx → 选择芯片 → 点击Build → 生成hex文件；
 3. 烧录工具：J-Link/ST-Link，烧录Output/下的hex文件。
 
 ## 问题与解决
